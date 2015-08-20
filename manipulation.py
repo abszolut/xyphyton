@@ -1,3 +1,4 @@
+# github-on módosítva. 2015.08.20. tiborth feltöltését abszolut piszkálta
 # -*- coding: utf-8 -*-
 """
 Created on Tue Aug 11 16:19:35 2015
